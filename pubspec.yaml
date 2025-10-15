@@ -1,0 +1,27 @@
+name: passkey_mobile_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cryptography: ^2.5.0
+  flutter_secure_storage: ^9.0.0
+  http: ^1.2.0
+  local_auth: ^2.1.7
+  mobile_scanner: ^6.0.2
+  elliptic: ^0.3.11
+  pointycastle: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
