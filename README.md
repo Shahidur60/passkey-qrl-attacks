@@ -222,17 +222,3 @@ This repo demonstrates WebAuthn‑like behavior. For production:
 
 Demonstration and educational use only — illustrates passkey‑based linking concepts.
 ```
-
-***
-
-To download it:
-
-1. Copy the entire content above.  
-2. Save as a file named **`README.md`**.  
-3. (Optional) Use:  
-   ```bash
-   curl -O https://yourdownloadpath/README.md
-   ```
-   if hosting it on your own repo or server.
-
-Would you like me to provide this as a downloadable `.zip` bundle with the folder structure stubbed out?
